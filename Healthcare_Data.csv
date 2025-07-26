@@ -1,0 +1,201 @@
+﻿Patient_ID,Name,Age,Gender,Diagnosis,Admission_Date,Discharge_Date,Department,Doctor,Bill_Amount (INR)
+P001,Latha Devi,23,Female,COPD,2025-07-15,2025-07-17,Pulmonology,Dr. Thomas,33280
+P002,Sushma Iyer,40,Female,Heart Failure,2025-07-09,2025-07-12,Cardiology,Dr. Mehta,23564
+P003,Priya Raj,76,Female,Asthma,2025-07-11,2025-07-14,Pulmonology,Dr. Thomas,19620
+P004,Anjali Sharma,79,Female,Gallstones,2025-07-18,2025-07-20,Gastroenterology,Dr. Bose,37080
+P005,Sushma Iyer,80,Female,Asthma,2025-07-05,2025-07-15,Pulmonology,Dr. Thomas,40292
+P006,Neha Singh,45,Female,Osteoarthritis,2025-07-15,2025-07-21,Orthopedics,Dr. Ramesh,42023
+P007,Anjali Sharma,25,Female,Stroke,2025-07-15,2025-07-18,Neurology,Dr. Nair,25176
+P008,Sunil Reddy,61,Male,Anemia,2025-07-05,2025-07-13,Hematology,Dr. Gupta,15735
+P009,Karan Verma,59,Male,COPD,2025-07-05,2025-07-12,Pulmonology,Dr. Thomas,36912
+P010,Sushma Iyer,73,Female,Hypertension,2025-07-14,2025-07-21,Cardiology,Dr. Mehta,44177
+P011,Neha Singh,58,Female,Asthma,2025-07-17,2025-07-24,Pulmonology,Dr. Thomas,14802
+P012,Karan Verma,22,Male,Hypertension,2025-07-04,2025-07-10,Cardiology,Dr. Mehta,22375
+P013,Sunil Reddy,35,Male,COPD,2025-07-09,2025-07-11,Pulmonology,Dr. Thomas,35213
+P014,Neha Singh,27,Female,Diabetes Mellitus,2025-07-21,2025-07-25,Endocrinology,Dr. Patel,40796
+P015,Latha Devi,48,Female,Osteoarthritis,2025-07-07,2025-07-14,Orthopedics,Dr. Ramesh,42826
+P016,Ravi Kumar,66,Male,Anemia,2025-07-03,2025-07-08,Hematology,Dr. Gupta,22623
+P017,Arvind Swamy,34,Male,Hypertension,2025-07-16,2025-07-21,Cardiology,Dr. Mehta,14847
+P018,Latha Devi,44,Female,COPD,2025-07-07,2025-07-12,Pulmonology,Dr. Thomas,17075
+P019,Latha Devi,39,Female,COPD,2025-07-15,2025-07-19,Pulmonology,Dr. Thomas,13661
+P020,Karan Verma,56,Male,UTI,2025-07-15,2025-07-19,Urology,Dr. Das,15503
+P021,Karan Verma,73,Male,Stroke,2025-07-21,2025-07-26,Neurology,Dr. Nair,44305
+P022,Ravi Kumar,74,Male,Gallstones,2025-07-21,2025-07-23,Gastroenterology,Dr. Bose,35670
+P023,Karan Verma,57,Male,Hypertension,2025-07-04,2025-07-11,Cardiology,Dr. Mehta,38469
+P024,Ravi Kumar,34,Male,Stroke,2025-07-15,2025-07-20,Neurology,Dr. Nair,11993
+P025,Sushma Iyer,31,Female,COPD,2025-07-09,2025-07-14,Pulmonology,Dr. Thomas,21135
+P026,Ravi Kumar,42,Male,Anemia,2025-07-11,2025-07-13,Hematology,Dr. Gupta,33583
+P027,Latha Devi,37,Female,Asthma,2025-07-17,2025-07-23,Pulmonology,Dr. Thomas,36867
+P028,Sunil Reddy,34,Male,Anemia,2025-07-12,2025-07-15,Hematology,Dr. Gupta,33170
+P029,Ravi Kumar,68,Male,Asthma,2025-07-11,2025-07-13,Pulmonology,Dr. Thomas,23198
+P030,Priya Raj,57,Female,Anemia,2025-07-06,2025-07-10,Hematology,Dr. Gupta,16193
+P031,Vishal Dubey,65,Male,COPD,2025-07-01,2025-07-05,Pulmonology,Dr. Thomas,34187
+P032,Karan Verma,48,Male,Gallstones,2025-07-02,2025-07-06,Gastroenterology,Dr. Bose,11696
+P033,Arvind Swamy,44,Male,Gallstones,2025-07-06,2025-07-16,Gastroenterology,Dr. Bose,22063
+P034,Latha Devi,25,Female,COPD,2025-07-01,2025-07-03,Pulmonology,Dr. Thomas,23326
+P035,Ravi Kumar,79,Male,UTI,2025-07-02,2025-07-11,Urology,Dr. Das,18254
+P036,Karan Verma,37,Male,Stroke,2025-07-11,2025-07-15,Neurology,Dr. Nair,31239
+P037,Anjali Sharma,54,Female,UTI,2025-07-17,2025-07-27,Urology,Dr. Das,38932
+P038,Latha Devi,60,Female,Asthma,2025-07-09,2025-07-14,Pulmonology,Dr. Thomas,20146
+P039,Arvind Swamy,26,Male,Hypertension,2025-07-21,2025-07-28,Cardiology,Dr. Mehta,9775
+P040,Ravi Kumar,48,Male,Osteoarthritis,2025-07-19,2025-07-22,Orthopedics,Dr. Ramesh,19583
+P041,Sunil Reddy,18,Male,Diabetes Mellitus,2025-07-14,2025-07-23,Endocrinology,Dr. Patel,43031
+P042,Latha Devi,45,Female,UTI,2025-07-07,2025-07-11,Urology,Dr. Das,23739
+P043,Karan Verma,18,Male,UTI,2025-07-11,2025-07-18,Urology,Dr. Das,21426
+P044,Anjali Sharma,80,Female,Anemia,2025-07-18,2025-07-21,Hematology,Dr. Gupta,14159
+P045,Ravi Kumar,26,Male,COPD,2025-07-16,2025-07-19,Pulmonology,Dr. Thomas,39088
+P046,Latha Devi,77,Female,Anemia,2025-07-17,2025-07-23,Hematology,Dr. Gupta,22452
+P047,Priya Raj,44,Female,Hypertension,2025-07-06,2025-07-12,Cardiology,Dr. Mehta,23118
+P048,Sushma Iyer,31,Female,Anemia,2025-07-01,2025-07-09,Hematology,Dr. Gupta,40599
+P049,Anjali Sharma,39,Female,Osteoarthritis,2025-07-02,2025-07-07,Orthopedics,Dr. Ramesh,30748
+P050,Latha Devi,46,Female,Diabetes Mellitus,2025-07-04,2025-07-07,Endocrinology,Dr. Patel,34650
+P051,Priya Raj,40,Female,Diabetes Mellitus,2025-07-21,2025-07-26,Endocrinology,Dr. Patel,28674
+P052,Ravi Kumar,70,Male,COPD,2025-07-14,2025-07-18,Pulmonology,Dr. Thomas,22643
+P053,Vishal Dubey,49,Male,Hypertension,2025-07-07,2025-07-16,Cardiology,Dr. Mehta,34138
+P054,Priya Raj,18,Female,Diabetes Mellitus,2025-07-07,2025-07-17,Endocrinology,Dr. Patel,38593
+P055,Arvind Swamy,54,Male,COPD,2025-07-14,2025-07-16,Pulmonology,Dr. Thomas,43260
+P056,Arvind Swamy,80,Male,Diabetes Mellitus,2025-07-03,2025-07-12,Endocrinology,Dr. Patel,15183
+P057,Latha Devi,34,Female,Gallstones,2025-07-14,2025-07-18,Gastroenterology,Dr. Bose,31090
+P058,Sunil Reddy,51,Male,Hypertension,2025-07-03,2025-07-11,Cardiology,Dr. Mehta,11042
+P059,Priya Raj,26,Female,Asthma,2025-07-09,2025-07-16,Pulmonology,Dr. Thomas,36831
+P060,Ravi Kumar,59,Male,COPD,2025-07-20,2025-07-28,Pulmonology,Dr. Thomas,36557
+P061,Latha Devi,26,Female,Osteoarthritis,2025-07-14,2025-07-24,Orthopedics,Dr. Ramesh,13467
+P062,Sunil Reddy,59,Male,Asthma,2025-07-13,2025-07-18,Pulmonology,Dr. Thomas,23004
+P063,Neha Singh,63,Female,Hypertension,2025-07-12,2025-07-20,Cardiology,Dr. Mehta,14466
+P064,Arvind Swamy,70,Male,Diabetes Mellitus,2025-07-11,2025-07-20,Endocrinology,Dr. Patel,43627
+P065,Priya Raj,49,Female,Hypertension,2025-07-06,2025-07-12,Cardiology,Dr. Mehta,41355
+P066,Vishal Dubey,42,Male,Gallstones,2025-07-15,2025-07-21,Gastroenterology,Dr. Bose,35975
+P067,Neha Singh,77,Female,Anemia,2025-07-18,2025-07-25,Hematology,Dr. Gupta,37528
+P068,Priya Raj,41,Female,Asthma,2025-07-04,2025-07-08,Pulmonology,Dr. Thomas,41510
+P069,Sushma Iyer,25,Female,UTI,2025-07-05,2025-07-13,Urology,Dr. Das,43399
+P070,Karan Verma,48,Male,UTI,2025-07-09,2025-07-11,Urology,Dr. Das,27536
+P071,Karan Verma,51,Male,UTI,2025-07-07,2025-07-16,Urology,Dr. Das,25856
+P072,Ravi Kumar,20,Male,Asthma,2025-07-02,2025-07-07,Pulmonology,Dr. Thomas,28965
+P073,Karan Verma,43,Male,Heart Failure,2025-07-08,2025-07-18,Cardiology,Dr. Mehta,11655
+P074,Priya Raj,19,Female,Diabetes Mellitus,2025-07-13,2025-07-17,Endocrinology,Dr. Patel,9754
+P075,Ravi Kumar,22,Male,Hypertension,2025-07-03,2025-07-05,Cardiology,Dr. Mehta,37726
+P076,Sunil Reddy,72,Male,Diabetes Mellitus,2025-07-18,2025-07-21,Endocrinology,Dr. Patel,31248
+P077,Karan Verma,30,Male,Hypertension,2025-07-05,2025-07-08,Cardiology,Dr. Mehta,26508
+P078,Ravi Kumar,45,Male,Osteoarthritis,2025-07-03,2025-07-06,Orthopedics,Dr. Ramesh,36620
+P079,Anjali Sharma,62,Female,Diabetes Mellitus,2025-07-10,2025-07-18,Endocrinology,Dr. Patel,13774
+P080,Arvind Swamy,34,Male,Gallstones,2025-07-02,2025-07-08,Gastroenterology,Dr. Bose,38099
+P081,Priya Raj,78,Female,UTI,2025-07-06,2025-07-11,Urology,Dr. Das,9091
+P082,Latha Devi,55,Female,Asthma,2025-07-11,2025-07-21,Pulmonology,Dr. Thomas,34161
+P083,Ravi Kumar,74,Male,UTI,2025-07-09,2025-07-15,Urology,Dr. Das,44242
+P084,Anjali Sharma,53,Female,Diabetes Mellitus,2025-07-06,2025-07-16,Endocrinology,Dr. Patel,18293
+P085,Sunil Reddy,54,Male,UTI,2025-07-12,2025-07-20,Urology,Dr. Das,28205
+P086,Latha Devi,48,Female,Asthma,2025-07-04,2025-07-09,Pulmonology,Dr. Thomas,23079
+P087,Neha Singh,70,Female,Heart Failure,2025-07-18,2025-07-24,Cardiology,Dr. Mehta,12061
+P088,Sunil Reddy,72,Male,Stroke,2025-07-05,2025-07-09,Neurology,Dr. Nair,28533
+P089,Sushma Iyer,56,Female,Stroke,2025-07-04,2025-07-11,Neurology,Dr. Nair,43704
+P090,Karan Verma,80,Male,Anemia,2025-07-19,2025-07-21,Hematology,Dr. Gupta,19059
+P091,Arvind Swamy,76,Male,UTI,2025-07-07,2025-07-15,Urology,Dr. Das,38450
+P092,Karan Verma,74,Male,Hypertension,2025-07-01,2025-07-08,Cardiology,Dr. Mehta,31072
+P093,Ravi Kumar,80,Male,Anemia,2025-07-09,2025-07-19,Hematology,Dr. Gupta,16368
+P094,Sushma Iyer,63,Female,Stroke,2025-07-20,2025-07-23,Neurology,Dr. Nair,22173
+P095,Vishal Dubey,61,Male,Gallstones,2025-07-03,2025-07-05,Gastroenterology,Dr. Bose,23066
+P096,Priya Raj,25,Female,Asthma,2025-07-13,2025-07-23,Pulmonology,Dr. Thomas,9498
+P097,Neha Singh,46,Female,Gallstones,2025-07-17,2025-07-26,Gastroenterology,Dr. Bose,39903
+P098,Arvind Swamy,72,Male,Gallstones,2025-07-12,2025-07-14,Gastroenterology,Dr. Bose,26262
+P099,Vishal Dubey,60,Male,Stroke,2025-07-15,2025-07-24,Neurology,Dr. Nair,41766
+P100,Neha Singh,40,Female,UTI,2025-07-06,2025-07-14,Urology,Dr. Das,30639
+P101,Latha Devi,55,Female,Heart Failure,2025-07-12,2025-07-19,Cardiology,Dr. Mehta,10421
+P102,Sunil Reddy,70,Male,Heart Failure,2025-07-12,2025-07-16,Cardiology,Dr. Mehta,29228
+P103,Ravi Kumar,18,Male,Stroke,2025-07-10,2025-07-14,Neurology,Dr. Nair,27233
+P104,Arvind Swamy,25,Male,Gallstones,2025-07-03,2025-07-05,Gastroenterology,Dr. Bose,14041
+P105,Vishal Dubey,58,Male,Osteoarthritis,2025-07-14,2025-07-17,Orthopedics,Dr. Ramesh,16165
+P106,Vishal Dubey,39,Male,Heart Failure,2025-07-10,2025-07-13,Cardiology,Dr. Mehta,19694
+P107,Vishal Dubey,40,Male,Stroke,2025-07-20,2025-07-24,Neurology,Dr. Nair,34575
+P108,Karan Verma,73,Male,Diabetes Mellitus,2025-07-04,2025-07-12,Endocrinology,Dr. Patel,17270
+P109,Arvind Swamy,48,Male,Anemia,2025-07-16,2025-07-21,Hematology,Dr. Gupta,33947
+P110,Priya Raj,59,Female,Diabetes Mellitus,2025-07-18,2025-07-23,Endocrinology,Dr. Patel,26645
+P111,Ravi Kumar,23,Male,Osteoarthritis,2025-07-19,2025-07-27,Orthopedics,Dr. Ramesh,12954
+P112,Vishal Dubey,26,Male,COPD,2025-07-19,2025-07-26,Pulmonology,Dr. Thomas,24219
+P113,Neha Singh,40,Female,COPD,2025-07-01,2025-07-04,Pulmonology,Dr. Thomas,31658
+P114,Neha Singh,79,Female,Hypertension,2025-07-09,2025-07-19,Cardiology,Dr. Mehta,34013
+P115,Priya Raj,59,Female,Diabetes Mellitus,2025-07-09,2025-07-13,Endocrinology,Dr. Patel,37636
+P116,Vishal Dubey,24,Male,COPD,2025-07-11,2025-07-13,Pulmonology,Dr. Thomas,41154
+P117,Karan Verma,53,Male,Anemia,2025-07-08,2025-07-12,Hematology,Dr. Gupta,29884
+P118,Sunil Reddy,32,Male,Gallstones,2025-07-03,2025-07-09,Gastroenterology,Dr. Bose,41207
+P119,Arvind Swamy,63,Male,Gallstones,2025-07-09,2025-07-14,Gastroenterology,Dr. Bose,43174
+P120,Neha Singh,70,Female,Hypertension,2025-07-16,2025-07-23,Cardiology,Dr. Mehta,41279
+P121,Sunil Reddy,74,Male,Anemia,2025-07-05,2025-07-10,Hematology,Dr. Gupta,30660
+P122,Sushma Iyer,34,Female,Stroke,2025-07-16,2025-07-20,Neurology,Dr. Nair,24490
+P123,Sunil Reddy,49,Male,Stroke,2025-07-21,2025-07-24,Neurology,Dr. Nair,42933
+P124,Karan Verma,73,Male,Diabetes Mellitus,2025-07-04,2025-07-10,Endocrinology,Dr. Patel,30158
+P125,Ravi Kumar,27,Male,Anemia,2025-07-14,2025-07-23,Hematology,Dr. Gupta,29222
+P126,Anjali Sharma,29,Female,Gallstones,2025-07-12,2025-07-14,Gastroenterology,Dr. Bose,9788
+P127,Ravi Kumar,72,Male,COPD,2025-07-19,2025-07-25,Pulmonology,Dr. Thomas,39458
+P128,Vishal Dubey,76,Male,Gallstones,2025-07-14,2025-07-21,Gastroenterology,Dr. Bose,29645
+P129,Karan Verma,48,Male,Heart Failure,2025-07-10,2025-07-19,Cardiology,Dr. Mehta,28476
+P130,Karan Verma,43,Male,Diabetes Mellitus,2025-07-03,2025-07-08,Endocrinology,Dr. Patel,15203
+P131,Priya Raj,57,Female,UTI,2025-07-18,2025-07-21,Urology,Dr. Das,33808
+P132,Sushma Iyer,59,Female,Osteoarthritis,2025-07-15,2025-07-24,Orthopedics,Dr. Ramesh,38758
+P133,Karan Verma,36,Male,Hypertension,2025-07-09,2025-07-14,Cardiology,Dr. Mehta,28546
+P134,Latha Devi,21,Female,Anemia,2025-07-01,2025-07-06,Hematology,Dr. Gupta,16065
+P135,Neha Singh,58,Female,COPD,2025-07-01,2025-07-08,Pulmonology,Dr. Thomas,17369
+P136,Vishal Dubey,50,Male,Heart Failure,2025-07-13,2025-07-21,Cardiology,Dr. Mehta,18707
+P137,Priya Raj,51,Female,Anemia,2025-07-15,2025-07-18,Hematology,Dr. Gupta,26766
+P138,Sushma Iyer,48,Female,Gallstones,2025-07-08,2025-07-12,Gastroenterology,Dr. Bose,36103
+P139,Ravi Kumar,58,Male,Diabetes Mellitus,2025-07-06,2025-07-14,Endocrinology,Dr. Patel,31696
+P140,Anjali Sharma,69,Female,Gallstones,2025-07-10,2025-07-19,Gastroenterology,Dr. Bose,42418
+P141,Sunil Reddy,49,Male,Anemia,2025-07-03,2025-07-09,Hematology,Dr. Gupta,16130
+P142,Anjali Sharma,51,Female,Anemia,2025-07-07,2025-07-16,Hematology,Dr. Gupta,14007
+P143,Latha Devi,55,Female,Stroke,2025-07-08,2025-07-11,Neurology,Dr. Nair,41623
+P144,Neha Singh,62,Female,Heart Failure,2025-07-06,2025-07-08,Cardiology,Dr. Mehta,37050
+P145,Neha Singh,60,Female,Gallstones,2025-07-20,2025-07-28,Gastroenterology,Dr. Bose,39523
+P146,Latha Devi,75,Female,Gallstones,2025-07-18,2025-07-23,Gastroenterology,Dr. Bose,19090
+P147,Anjali Sharma,39,Female,Osteoarthritis,2025-07-15,2025-07-21,Orthopedics,Dr. Ramesh,37876
+P148,Karan Verma,33,Male,UTI,2025-07-06,2025-07-08,Urology,Dr. Das,37115
+P149,Sushma Iyer,53,Female,Asthma,2025-07-01,2025-07-04,Pulmonology,Dr. Thomas,20184
+P150,Sushma Iyer,61,Female,Anemia,2025-07-19,2025-07-26,Hematology,Dr. Gupta,33146
+P151,Priya Raj,73,Female,Heart Failure,2025-07-03,2025-07-10,Cardiology,Dr. Mehta,13651
+P152,Latha Devi,69,Female,UTI,2025-07-19,2025-07-21,Urology,Dr. Das,20876
+P153,Priya Raj,42,Female,COPD,2025-07-08,2025-07-12,Pulmonology,Dr. Thomas,15503
+P154,Arvind Swamy,72,Male,Stroke,2025-07-02,2025-07-10,Neurology,Dr. Nair,33362
+P155,Priya Raj,69,Female,Stroke,2025-07-12,2025-07-22,Neurology,Dr. Nair,34332
+P156,Karan Verma,66,Male,Gallstones,2025-07-12,2025-07-19,Gastroenterology,Dr. Bose,35298
+P157,Latha Devi,42,Female,Heart Failure,2025-07-02,2025-07-09,Cardiology,Dr. Mehta,22683
+P158,Sunil Reddy,51,Male,Heart Failure,2025-07-07,2025-07-13,Cardiology,Dr. Mehta,42939
+P159,Karan Verma,26,Male,Gallstones,2025-07-04,2025-07-13,Gastroenterology,Dr. Bose,19093
+P160,Sushma Iyer,18,Female,Gallstones,2025-07-08,2025-07-12,Gastroenterology,Dr. Bose,43180
+P161,Anjali Sharma,26,Female,Gallstones,2025-07-05,2025-07-14,Gastroenterology,Dr. Bose,21019
+P162,Vishal Dubey,43,Male,Hypertension,2025-07-15,2025-07-25,Cardiology,Dr. Mehta,31448
+P163,Arvind Swamy,75,Male,Hypertension,2025-07-13,2025-07-16,Cardiology,Dr. Mehta,18123
+P164,Vishal Dubey,59,Male,Asthma,2025-07-05,2025-07-14,Pulmonology,Dr. Thomas,30715
+P165,Sunil Reddy,25,Male,UTI,2025-07-03,2025-07-07,Urology,Dr. Das,21248
+P166,Neha Singh,66,Female,Anemia,2025-07-18,2025-07-20,Hematology,Dr. Gupta,37499
+P167,Sushma Iyer,31,Female,Asthma,2025-07-02,2025-07-07,Pulmonology,Dr. Thomas,42760
+P168,Anjali Sharma,68,Female,Hypertension,2025-07-05,2025-07-12,Cardiology,Dr. Mehta,29199
+P169,Anjali Sharma,55,Female,Gallstones,2025-07-07,2025-07-15,Gastroenterology,Dr. Bose,29062
+P170,Arvind Swamy,24,Male,Gallstones,2025-07-09,2025-07-12,Gastroenterology,Dr. Bose,17920
+P171,Neha Singh,40,Female,Asthma,2025-07-02,2025-07-04,Pulmonology,Dr. Thomas,40794
+P172,Latha Devi,63,Female,Stroke,2025-07-14,2025-07-24,Neurology,Dr. Nair,9066
+P173,Sushma Iyer,73,Female,Anemia,2025-07-04,2025-07-10,Hematology,Dr. Gupta,18297
+P174,Sunil Reddy,59,Male,Anemia,2025-07-19,2025-07-25,Hematology,Dr. Gupta,41486
+P175,Arvind Swamy,50,Male,Anemia,2025-07-07,2025-07-17,Hematology,Dr. Gupta,44239
+P176,Neha Singh,57,Female,Diabetes Mellitus,2025-07-05,2025-07-11,Endocrinology,Dr. Patel,10038
+P177,Arvind Swamy,49,Male,Hypertension,2025-07-16,2025-07-24,Cardiology,Dr. Mehta,11462
+P178,Karan Verma,54,Male,Stroke,2025-07-05,2025-07-13,Neurology,Dr. Nair,35189
+P179,Sushma Iyer,36,Female,Stroke,2025-07-09,2025-07-18,Neurology,Dr. Nair,38289
+P180,Latha Devi,49,Female,UTI,2025-07-05,2025-07-10,Urology,Dr. Das,39158
+P181,Sunil Reddy,55,Male,Gallstones,2025-07-08,2025-07-15,Gastroenterology,Dr. Bose,13581
+P182,Karan Verma,64,Male,Heart Failure,2025-07-06,2025-07-08,Cardiology,Dr. Mehta,34383
+P183,Priya Raj,18,Female,Gallstones,2025-07-11,2025-07-15,Gastroenterology,Dr. Bose,42171
+P184,Sunil Reddy,30,Male,Diabetes Mellitus,2025-07-07,2025-07-15,Endocrinology,Dr. Patel,32397
+P185,Arvind Swamy,70,Male,Osteoarthritis,2025-07-04,2025-07-12,Orthopedics,Dr. Ramesh,40432
+P186,Sunil Reddy,25,Male,Asthma,2025-07-02,2025-07-12,Pulmonology,Dr. Thomas,33496
+P187,Sushma Iyer,43,Female,Anemia,2025-07-02,2025-07-07,Hematology,Dr. Gupta,30024
+P188,Sushma Iyer,49,Female,Asthma,2025-07-08,2025-07-10,Pulmonology,Dr. Thomas,43352
+P189,Karan Verma,23,Male,Anemia,2025-07-12,2025-07-16,Hematology,Dr. Gupta,18658
+P190,Arvind Swamy,54,Male,UTI,2025-07-04,2025-07-06,Urology,Dr. Das,33523
+P191,Neha Singh,25,Female,Anemia,2025-07-01,2025-07-09,Hematology,Dr. Gupta,29942
+P192,Sunil Reddy,24,Male,UTI,2025-07-03,2025-07-12,Urology,Dr. Das,36983
+P193,Anjali Sharma,42,Female,Asthma,2025-07-04,2025-07-11,Pulmonology,Dr. Thomas,19706
+P194,Vishal Dubey,51,Male,Osteoarthritis,2025-07-09,2025-07-13,Orthopedics,Dr. Ramesh,23669
+P195,Sunil Reddy,67,Male,Osteoarthritis,2025-07-10,2025-07-16,Orthopedics,Dr. Ramesh,27335
+P196,Neha Singh,66,Female,COPD,2025-07-13,2025-07-17,Pulmonology,Dr. Thomas,16680
+P197,Latha Devi,64,Female,UTI,2025-07-18,2025-07-22,Urology,Dr. Das,23386
+P198,Karan Verma,22,Male,Asthma,2025-07-03,2025-07-12,Pulmonology,Dr. Thomas,27031
+P199,Priya Raj,60,Female,UTI,2025-07-01,2025-07-10,Urology,Dr. Das,36077
+P200,Sushma Iyer,79,Female,UTI,2025-07-06,2025-07-09,Urology,Dr. Das,12742
